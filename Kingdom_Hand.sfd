@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
 FontName: Kingdom_Hand
 FullName: Kingdom Hand
-FamilyName: Kingdom_Hand
+FamilyName: Kingdom Hand
 Weight: Regular
 Copyright: Copyright (c) 2026, dingus
 UComments: "2026-1-17: Created with FontForge (http://fontforge.org)"
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1768658370
-ModificationTime: 1768694435
+ModificationTime: 1768694955
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -48,7 +48,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 12 10
+WinInfo: 24 12 10
 BeginPrivate: 0
 EndPrivate
 BeginChars: 183 183
